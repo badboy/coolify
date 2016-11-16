@@ -2,5 +2,7 @@
 name = "coolify"
 version = "1.0.0"
 authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+description = "Coolify every value"
+license = "MIT"
 
 [dependencies]
